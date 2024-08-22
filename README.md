@@ -43,7 +43,7 @@ A table-booking system using React. It's a fully responsive web app that allows 
 - Hide/show navbar depending on scroll direction
 - Creating a form component in React
 - Creating a controlled component in React
-- Creating routes using React Router v6
+- Creating routes using React Router Dom
 - Creating unit tests using React Testing Library
 - Storing state using localStorage API
 - Using aria attributes to ensure my application is accessible to users
