@@ -31,7 +31,7 @@ A table-booking system using React. It's a fully responsive web app that allows 
 ### Built with
 
 - [React](https://beta.reactjs.org/) - React 
-- [React Router v6+](https://reactrouter.com/en/main) - For routes
+- [React Router Dom](https://reactrouter.com/en/main) - For routes
 - [React Scroll](https://www.npmjs.com/package/react-scroll) - For smooth scroll
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - For unit testing
 - CSS Flexbox and Grid
