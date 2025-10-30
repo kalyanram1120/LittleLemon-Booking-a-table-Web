@@ -24,7 +24,7 @@ A table-booking system using React. It's a fully responsive web app that allows 
 
 ### Links
 
-- Live : [Demo](https://little-lemon-booking-website.vercel.app/)
+- Live : [Demo](https://little-lemon-booking-a-table-web.vercel.app/)
 
 ## My process
 
